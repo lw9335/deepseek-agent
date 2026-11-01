@@ -1,0 +1,61 @@
+{
+  "badHash": [],
+  "duplicateIds": [],
+  "svgOverflow": [],
+  "summaries": [
+    {
+      "id": "intro",
+      "summary": false
+    },
+    {
+      "id": "ch1",
+      "summary": true
+    },
+    {
+      "id": "ch2",
+      "summary": true
+    },
+    {
+      "id": "ch3",
+      "summary": true
+    },
+    {
+      "id": "ch4",
+      "summary": true
+    },
+    {
+      "id": "ch5",
+      "summary": true
+    },
+    {
+      "id": "ch6",
+      "summary": true
+    },
+    {
+      "id": "ch7",
+      "summary": true
+    },
+    {
+      "id": "ch8",
+      "summary": true
+    },
+    {
+      "id": "ch9",
+      "summary": true
+    },
+    {
+      "id": "ch10",
+      "summary": true
+    },
+    {
+      "id": "appendix",
+      "summary": true
+    }
+  ],
+  "zoom": {
+    "open": true,
+    "width": 337,
+    "svgWidth": 700,
+    "bodyWidth": 375
+  }
+}

@@ -1,0 +1,870 @@
+[
+  {
+    "path": ".gitignore",
+    "hash": "0FC27E07FAE228138B40AC286407F79C177BC93178FD15C78DFD6C84738EE696"
+  },
+  {
+    "path": "CLAUDE.md",
+    "hash": "F403C3BC1C9488F96CE327BB3198B8996CAF6BAA151B10A830D9D77AD154B16E"
+  },
+  {
+    "path": "cordis.patch.yml",
+    "hash": "3270ACA220960736522EF64D1262E5E50C29F6037C61D4EC06579E8D4ADFC62D"
+  },
+  {
+    "path": "LICENSE",
+    "hash": "0FF705BC48C62E2BB963F59CC77E07BC0E8F6448B77C5E37201FD9C30B668BA7"
+  },
+  {
+    "path": "package.json",
+    "hash": "E374E6043ACC28862DF0712E67C106DD531D7936C5848D2610C6FE12DFA73C0A"
+  },
+  {
+    "path": "pnpm-lock.yaml",
+    "hash": "D62AF3F1FDD9609D66EE8DF5771B15D4CEE79BFD8FF5641CD751D0406E344E9A"
+  },
+  {
+    "path": "README.md",
+    "hash": "D286C02351D5C8A6D95FBD4E880D6029E27C5D1F412FADDD1F32ACF05F9533A6"
+  },
+  {
+    "path": "SETUP.md",
+    "hash": "27D3C910AD881804EB0E5ECF22D145C3ABDD9934B67D1DC0915C35638079D843"
+  },
+  {
+    "path": "tsconfig.json",
+    "hash": "CFA09A6035B5D58DFB7F62B471ABCD3CD333D430281F68675437A58EB065E544"
+  },
+  {
+    "path": "tsdown.config.ts",
+    "hash": "75C9C79FC8D6FF7357A66E9A18386E1E48FC10DB300F93704009C4F8969B2553"
+  },
+  {
+    "path": "vitest.config.ts",
+    "hash": "415763A90BA39598FB619BD0805D7C0412FCA72264B51605F8CFD29F323207D9"
+  },
+  {
+    "path": "docs\\000-philosophy.md",
+    "hash": "27D7998A14CBE5E3773AA0C2805C64172060B25E79D2A104628960004799A72F"
+  },
+  {
+    "path": "docs\\001-domain.md",
+    "hash": "CDECF46816EE895B577EB2B0DF5391DA8BEA687EAE3B6004E8BC04DD7A229C62"
+  },
+  {
+    "path": "docs\\002-authorization.md",
+    "hash": "E3FFF481E80B2750BB587008F603247D234E909541FB64B5E39EE871971E8DCD"
+  },
+  {
+    "path": "docs\\003-execution.md",
+    "hash": "5412A65B71E7E71887CA0299D72F6A912885CAD00C22B5C9C05128FF7D021797"
+  },
+  {
+    "path": "docs\\004-prompts.md",
+    "hash": "8D7267671E7D9E82865ED84189C2C5B52B93C79EBFC9525D94173AC680363590"
+  },
+  {
+    "path": "docs\\005-panel.md",
+    "hash": "4F4EC2F0068A7344366F4E261195B191F8D48D64F97E988529242500C35CE943"
+  },
+  {
+    "path": "docs\\006-deployment.md",
+    "hash": "255C5FD082F5AD1F95E045CB813306E029D4ED93ED04D0B22AF0E47EEE69F165"
+  },
+  {
+    "path": "docs\\007-architecture.md",
+    "hash": "DF49A7C5B0094C7A0A28C0CA81FA940D579E0B241BE749070A7A185962B6FFEA"
+  },
+  {
+    "path": "docs\\008-cookbook.md",
+    "hash": "4BB60834E46CB031FF64E262CAF236526AA6A1A2EC5ED17F383A00F161F4D818"
+  },
+  {
+    "path": "examples\\profile.cordis.patch.yml",
+    "hash": "0A6E504E1EB652E6646F73B1E8C13B4D3B650E5CC15057814674982DF3CC2E39"
+  },
+  {
+    "path": "locale\\en.json",
+    "hash": "0D3EEEA75188C8A0578B73AAB36B91A097D08C0A51C5A01A05640FD1B6C5F97E"
+  },
+  {
+    "path": "locale\\zh.json",
+    "hash": "E524510C5C2EF8FF43A185FD28C3FBBF86BFE3010EBA8DF94203EAA7D0AEBA0F"
+  },
+  {
+    "path": "prompts\\admission.md",
+    "hash": "42AA54CDF73B93644A50DF67BCD0ADB2BEC3E7F3331089A75F5F77D3C49EF202"
+  },
+  {
+    "path": "prompts\\cli.md",
+    "hash": "BA98BC5D4E3F440A395531F66091934B8CEE5B4149CB3DE92D1E7A165D07AA88"
+  },
+  {
+    "path": "prompts\\dispatch.md",
+    "hash": "C5CFA46C99455E1E36EE69432715675914E673A71CF9444463CEB2AE61B618FD"
+  },
+  {
+    "path": "prompts\\handoff-orchestrator.md",
+    "hash": "714C33FDA8306FD072C60FB7A5735346293389AF767473D73ED18353532698AC"
+  },
+  {
+    "path": "prompts\\handoff-worker.md",
+    "hash": "093768AA138B30E0B396AC8BA97E00708F3C8EE597D86C6B389CB5AD4E81E1F2"
+  },
+  {
+    "path": "prompts\\handoff.md",
+    "hash": "C9FD8213068441A8247C25C27F8B22A476A7677122CBEBB52CB80A9727C4D8FC"
+  },
+  {
+    "path": "prompts\\orchestrator.md",
+    "hash": "9B01E5158B4784DD265DC83EA607678F6D1DBCC45F9D315009BFE82ED55D3CF8"
+  },
+  {
+    "path": "prompts\\replies.md",
+    "hash": "710F95E4525A6C1252FF34809051CCA288F1CF4FBB04D71D2FB9DAC33953F813"
+  },
+  {
+    "path": "prompts\\shared.md",
+    "hash": "EE831F7437ECA758BD4D09461471B6EBE2D054106543F991C25E72BAAAFAC9CB"
+  },
+  {
+    "path": "prompts\\subscriptions.md",
+    "hash": "C25AC427FE5CA93382B818AD8538F55B28CAAD4F66D3FD7F75AB9CB4D12B3774"
+  },
+  {
+    "path": "prompts\\work.md",
+    "hash": "3DC7E84764E90581E008A5B75F0D3356058EAD35666D96A19F0C22137E6A954C"
+  },
+  {
+    "path": "prompts\\worker.md",
+    "hash": "F3B821F19F0C7A809846568E6218BA2450B6D23559AF9E300D21F0DE27A26BBF"
+  },
+  {
+    "path": "prompts\\team\\communication.md",
+    "hash": "E882F12C517319C410142BD4870B45FDBCD5B088FCD3F6B9A729AD4E0DB2B421"
+  },
+  {
+    "path": "prompts\\team\\delivery.md",
+    "hash": "A05EBFFD3B7B1E9AF6A30D2F199954D89D3F0337836230777F75E364055E2908"
+  },
+  {
+    "path": "prompts\\team\\scope.md",
+    "hash": "D4602AD2A0DC82D77DDAEBD53E444BC33F220413038AC1FA830AA4EEE61E96FC"
+  },
+  {
+    "path": "scripts\\dsh-superagent",
+    "hash": "6F096A8E339E7332C35DABDEB15E778FB94734DCBC2980B219F1EDE36B56959A"
+  },
+  {
+    "path": "skills\\dsh-superagent-feishu\\SKILL.md",
+    "hash": "EF5232B0AE765C505614BB2E77DA2EB68FA4DE6A79F4FD069F11E47902016378"
+  },
+  {
+    "path": "skills\\dsh-superagent-github\\SKILL.md",
+    "hash": "7907778F735550F642B7E3D511007BE9AE67D29965AA17AC50119A0EEEB8E54B"
+  },
+  {
+    "path": "src\\admission.ts",
+    "hash": "F804875623599B1DDD8D581FE2F9D8881AB2B969D587CC9727D21315FF8A31E0"
+  },
+  {
+    "path": "src\\deployment.ts",
+    "hash": "6A5BEE1F675E79FD83E8ED13A2C5CE809C1061B79D9F760148732549F555D120"
+  },
+  {
+    "path": "src\\index.ts",
+    "hash": "DFBF395C59510B8B420E277DBAA21AFFB05A092AB2D46C43601029C8F1B12CE3"
+  },
+  {
+    "path": "src\\kv.ts",
+    "hash": "72B7FD73872F34C372A5FA8A37D9DA60246FC29AFBE2B98658522FDE6E3FBE9E"
+  },
+  {
+    "path": "src\\limits.ts",
+    "hash": "8BB5DCBDDB3A02D17AC9E6A378C253F07FC5FA0CBD6BDBCF3A91976C745092B7"
+  },
+  {
+    "path": "src\\navigation.ts",
+    "hash": "CC15DF6DFC3AE5D215D819AD2AEBD4DD4C7D3FEBBE6AA9D6D186EE77A59AC675"
+  },
+  {
+    "path": "src\\policy.ts",
+    "hash": "C9968C32C06A1DF9A43CAF553A36A23312D3C8212A06C1E0F97461A888880AD7"
+  },
+  {
+    "path": "src\\setup.ts",
+    "hash": "715DAF583C5CCCF0F5433F780A5D8AD540634A8508DE31AFE778BD04187D83FC"
+  },
+  {
+    "path": "src\\app\\api.ts",
+    "hash": "7061322B16BCE0296D8A9B3EEF11451B2027CF9E49DD14C5F4A89D8C906B8E29"
+  },
+  {
+    "path": "src\\app\\assessment.ts",
+    "hash": "3A426960AD503B1518C49254B6A1C093A921BEE8CAB2FB20D20077E8555799DA"
+  },
+  {
+    "path": "src\\app\\cache.ts",
+    "hash": "149E6C6436C1831CB12B4D66073E081BBF51607E254A746484FA49FC52DA8BEE"
+  },
+  {
+    "path": "src\\app\\cards.ts",
+    "hash": "F0022615512B85C79372AC2D7825ECDDE446B30FDAB6F84BC3F3C2408A3CFB0E"
+  },
+  {
+    "path": "src\\app\\context.ts",
+    "hash": "3CE30F3923E0F88DABC6C060304E429197891D0FBECA6ABC25154DE6F59FD2AF"
+  },
+  {
+    "path": "src\\app\\delivery.ts",
+    "hash": "572D6E16AEBE4BDAEEB7BB68F6E1B40ED3FC13A029EE1603C96B852E2666B70C"
+  },
+  {
+    "path": "src\\app\\effects.ts",
+    "hash": "29837470E0DFC3FD7C6C1A4211B28B26404C9367D78D9629FBC7545D3143B8C2"
+  },
+  {
+    "path": "src\\app\\execution-environment.ts",
+    "hash": "9BA478BD368835E09965C00CBB5308E1EECB8E6D071D7F2BF8ACAC4EF96B9883"
+  },
+  {
+    "path": "src\\app\\http.ts",
+    "hash": "3C614D32250E616210FCF1BF8E843EF6C5A58B5BC6C641291F8B38C1AF632C3A"
+  },
+  {
+    "path": "src\\app\\links.ts",
+    "hash": "5D034393127D8650BDB5CEAD40D7A7A9F441A561E8002503B94A3A28759CE731"
+  },
+  {
+    "path": "src\\app\\migration.ts",
+    "hash": "7F8DDCBFB3E89270EDA48D8C6F211E34C7F949D617A3BDD75B6CC88639F92B5F"
+  },
+  {
+    "path": "src\\app\\notices.ts",
+    "hash": "27663BBC8DB8862C8719F589ED542676BBC890675A7D79ED91D0E84E2D50D84F"
+  },
+  {
+    "path": "src\\app\\outbox.ts",
+    "hash": "AE3E0ABCA699E6212F35512A58D9EE47F1B739D51283AB6EEDBD794D5A655E68"
+  },
+  {
+    "path": "src\\app\\passes.ts",
+    "hash": "98CE972D6D9B72D8E0F8DE3F44F009259624FB48C11FD9A3C7113C4A108893B6"
+  },
+  {
+    "path": "src\\app\\prompts.ts",
+    "hash": "5E3E674DAD4AF71CC36905966A1F3049DE3739FFFDB9272F1D255446DF271E90"
+  },
+  {
+    "path": "src\\app\\resources.ts",
+    "hash": "BCFE4E96F8F5C1C407F5B73221BA8AF6AAEB913A081393F028594E179B0DC0EC"
+  },
+  {
+    "path": "src\\app\\retry-health.ts",
+    "hash": "C439B4E4248B143CC82B1E0D2CE02ACE4CD1807DA4E906A42287617C84379479"
+  },
+  {
+    "path": "src\\app\\role-models.ts",
+    "hash": "63BD90001EB643A1E3393EB73886AB35CF4A746CF0C209C41A6F49B58B0A805A"
+  },
+  {
+    "path": "src\\app\\runtime.ts",
+    "hash": "EC4CAFEC07E4B597ACB177BA76B1BE12A75DDC8F058C5BE75C3AB66D2F23D4CD"
+  },
+  {
+    "path": "src\\app\\sessions.ts",
+    "hash": "1E7D9DB06C0C30393F04C49D62B2F465CBA30DA50B84AA5D07430322884D50F8"
+  },
+  {
+    "path": "src\\app\\settings-history.ts",
+    "hash": "4FAAB272436F0A51F0085D2F26498CBFE3E1BDF079A8E280E1A95065579FB2E0"
+  },
+  {
+    "path": "src\\app\\settings.ts",
+    "hash": "968A41C11A42A3CD4573CC54EEBF0CFFCAFEF247555FEC615734F22791BCC8F4"
+  },
+  {
+    "path": "src\\app\\setup.ts",
+    "hash": "F2B5DB96EE24FCDA7A967B4E2FB65BE4E62D331B049FF42BB01CF39FBA2A9146"
+  },
+  {
+    "path": "src\\app\\skill-files.ts",
+    "hash": "16E358B3DFCD2C43E63831F3A374CE0E38B3BB453C433533E124CA7E48CBEA61"
+  },
+  {
+    "path": "src\\app\\source-context.ts",
+    "hash": "F2716E24B3AAC1850CCF889A3635EAA3E1FBE7940B6D68C476FD29754FA41C32"
+  },
+  {
+    "path": "src\\app\\store-read.ts",
+    "hash": "365A32DCC13564CB946CCC26CC694ACD7D0056CA2832E03F72571D2D369DACB3"
+  },
+  {
+    "path": "src\\app\\store.ts",
+    "hash": "F32C324F15428C21088432F16BD9A047BD6F33F49183F784D9C237133966A17A"
+  },
+  {
+    "path": "src\\app\\versions.ts",
+    "hash": "1ABBA86A073D3A085668DFCAA414AB095606B39F630E2E4FB7EEABB199955934"
+  },
+  {
+    "path": "src\\app\\tools\\executor.ts",
+    "hash": "A93065FC3F6238B6AFF79FB23A4EEC62C51B7485A515744CAC26450820ABF03C"
+  },
+  {
+    "path": "src\\app\\tools\\main.ts",
+    "hash": "E79F7A90D1EBD156F7FA531E4A2A361CFDE9A591338C120D8516C1B025841F07"
+  },
+  {
+    "path": "src\\app\\tools\\tool.ts",
+    "hash": "C8095A4348668AB7484BCE7D2E1391354FCBEE4CF41237CB691B461568C6B6BC"
+  },
+  {
+    "path": "src\\app\\views\\overview.ts",
+    "hash": "7783D32A46B3FDCBF192175D852B8A630FAFB4ED2D3B324C0C97F5278D86B4FB"
+  },
+  {
+    "path": "src\\app\\views\\records.ts",
+    "hash": "081AE306600FCEA303FFC56A1359D2D836993C4313941E0C7F444865572338A6"
+  },
+  {
+    "path": "src\\app\\views\\settings.ts",
+    "hash": "719AFF15DAC940AE977C1CC4F7F0B198A06889CF8A225DE796AB0C7BB18750FB"
+  },
+  {
+    "path": "src\\app\\views\\sources.ts",
+    "hash": "0A2DC7AC7645E233EDA45B644F79F0EB06AD66CF0C3901B754F2C1FD7BA9C540"
+  },
+  {
+    "path": "src\\app\\views\\text.ts",
+    "hash": "B5116EE8905DD98B95385F09047F402B362BE54E696065FE3850E5BFA85269FE"
+  },
+  {
+    "path": "src\\app\\views\\threads.ts",
+    "hash": "CC67DA81E20A68C83CA05CA6F3777CF4CDFC45E6C89A38FE7B70DD843EF08088"
+  },
+  {
+    "path": "src\\app\\views\\tickets.ts",
+    "hash": "E8571318C633B555DC57D6155C1CDCDD0F0C3C282D84641707004BE20C92C545"
+  },
+  {
+    "path": "src\\client\\api.ts",
+    "hash": "A60CC875D4A6CFE08607BCA9A07A948A6D34C119DAE72AEC1A6D493290E2048D"
+  },
+  {
+    "path": "src\\client\\app.tsx",
+    "hash": "D0B081133A109AECE67134FEEC13CE85AEEF73DBF2C0EB8B3120E0CC949C613F"
+  },
+  {
+    "path": "src\\client\\client.css",
+    "hash": "4AD36AF88257A65AB296063453FA1779E72ECCFCF9A034935161E10CE2D5D870"
+  },
+  {
+    "path": "src\\client\\controls.tsx",
+    "hash": "72B6D3C63206420758973BECABF0617D04262FE1F64FC2B4F2F6ACFAF9EBC84A"
+  },
+  {
+    "path": "src\\client\\css.d.ts",
+    "hash": "07484F2E72F1E387AC7A344520A9128EE496A549C63421BC795D306D2D639FBC"
+  },
+  {
+    "path": "src\\client\\deployment.tsx",
+    "hash": "D97E74061B7B69C68AF2BD9F2A0BA64DFCB96D948C9F9056850A74A0EF601D5B"
+  },
+  {
+    "path": "src\\client\\draft.tsx",
+    "hash": "F85A252A3122472F05021A9213C172AAC2ACFE3835D486244813539EE634AAC2"
+  },
+  {
+    "path": "src\\client\\eval.tsx",
+    "hash": "6CEB6DA891D64AF6630AE821FB272F145C1DCC0CFC3E2FCAB36B8D55C2C2C69C"
+  },
+  {
+    "path": "src\\client\\execution.tsx",
+    "hash": "FC5059C939FE0FA4EB4F5C7308704815A8BDCAC23AB32B41CFA8D032DFFEAB3E"
+  },
+  {
+    "path": "src\\client\\index.tsx",
+    "hash": "80AC9C5FA8D7ABF368A0789FB7FB3C69D1825628E93920F1D49A7E5CEC958277"
+  },
+  {
+    "path": "src\\client\\locales.ts",
+    "hash": "761EFCD499C84717761AA609A7A02D576E1EA5AAA03E860F078EB6F2069841B0"
+  },
+  {
+    "path": "src\\client\\markdown.ts",
+    "hash": "8438D9D6553C9B13D3C3F7E2C91CF8C1CC357A2C6CB4B2A648C193EC95352C18"
+  },
+  {
+    "path": "src\\client\\marks.ts",
+    "hash": "81DAD4BCD035489EFC18362330674CD86F4EDE7D31A5D41A1034666E8E60723D"
+  },
+  {
+    "path": "src\\client\\overview.tsx",
+    "hash": "DA2C354746CF07CC6CF48CE8A8E219090885CC5D543620E75514E5CA8E004F72"
+  },
+  {
+    "path": "src\\client\\prompt-config.ts",
+    "hash": "2D8C644BC7562420EF4327070ABAC2AE01775BC8EC711E85C2B8B86BA956BAB1"
+  },
+  {
+    "path": "src\\client\\prompts.tsx",
+    "hash": "EFBBB69CBC9F2BFACD021531FDDB8C04C77CD7E95FC6D075A1BE91621CEAE41B"
+  },
+  {
+    "path": "src\\client\\provider.tsx",
+    "hash": "3AC458B7C9C55183E1ACB37EC373B94650D1EBD8793AF26F3D7E83E03BB5934C"
+  },
+  {
+    "path": "src\\client\\route.ts",
+    "hash": "E1D84D0C65CCECA3BB8C9660CE59D4862F3657CFA83EAEFC52779EA0CF49B3DF"
+  },
+  {
+    "path": "src\\client\\rows.tsx",
+    "hash": "CF15D7F7A76A62A7B10CC8F65557F3C88CEF0C270CD1E8878CC8F1584F44E63F"
+  },
+  {
+    "path": "src\\client\\settings-kit.tsx",
+    "hash": "B2533E5673A8C520CC2823307C40BD3FF3867EC8C48503220AFD20C0090C476C"
+  },
+  {
+    "path": "src\\client\\settings.tsx",
+    "hash": "A1083EC88D40B5A279EF339C9327A2DC0BB355661F906A6211D1F7441FC2B2A9"
+  },
+  {
+    "path": "src\\client\\source.tsx",
+    "hash": "F6261C77E682DB0CACF240881A9DB4B3BA9C13E1E1B41E90A0B03AD609ACA99D"
+  },
+  {
+    "path": "src\\client\\text.ts",
+    "hash": "8487FF8EC408819042E34880B3556D1B680E80274575DD2978206E5724A2883A"
+  },
+  {
+    "path": "src\\client\\thread.tsx",
+    "hash": "B6B365A14941AF9144D8796FDB19FDC766E942D9D9EB466BD4EDB039DF4FCEC9"
+  },
+  {
+    "path": "src\\client\\ticket.tsx",
+    "hash": "324CA9AAC22C5E753A584D4DC7EA6F537D665AE2A43A0659C71364F107376B54"
+  },
+  {
+    "path": "src\\client\\trigger.tsx",
+    "hash": "EA012A5803B0C23CD547AE531CE17E35B21F6C1566926C3D0E5E99D5A98E284C"
+  },
+  {
+    "path": "src\\client\\widgets.tsx",
+    "hash": "0664C495FDC4ED2F5724B3EDAC3CCDE8FF3C89D3B8F79CE217EFA3D66EDA87A8"
+  },
+  {
+    "path": "src\\core\\assignments.ts",
+    "hash": "C44A47F723D24BF64617C1B9ADD5ABAE12B0DFDB4471A52DEA413F278A6C926F"
+  },
+  {
+    "path": "src\\core\\engine.ts",
+    "hash": "7DDFE9171552FB71CDA074681ADB8ED98DA203C830BFFB5B4DBB05E2F5C01BC0"
+  },
+  {
+    "path": "src\\core\\errors.ts",
+    "hash": "0760583AB26762F0D980DC0AE6002BAFBC81DC3F63F45CC153671FCDF3B1B6D8"
+  },
+  {
+    "path": "src\\core\\evals.ts",
+    "hash": "4260B2F67C44F618B2D89B390B2E2A05F79E3909CC108C37E3BE12BD823E96CF"
+  },
+  {
+    "path": "src\\core\\ids.ts",
+    "hash": "08E14FC4C2DA38F64391000C32B3A26118DC6C669172C68963E31C17F310A06D"
+  },
+  {
+    "path": "src\\core\\index.ts",
+    "hash": "FBD33AC903867A29D7CE161E63894F9E6F8B0AF584C88635FC14D0791544B12B"
+  },
+  {
+    "path": "src\\core\\intake.ts",
+    "hash": "BF8B7C9DB11AAEF6C9E11424D6EFDB8D3E4BC6606EDB7E2D54670176769116E4"
+  },
+  {
+    "path": "src\\core\\memory.ts",
+    "hash": "E4BD55CD8300AC2930CAD997ECB37DDAB05EE32A653E1BF7CFE72CA022D8DA4B"
+  },
+  {
+    "path": "src\\core\\model.ts",
+    "hash": "AB2C0ABA2D0574F0E4B16F6FF039F06624C74D37B88301420AC2B9355D45D92C"
+  },
+  {
+    "path": "src\\core\\part.ts",
+    "hash": "0F94A385628876BF25D54CEA1BFACCF4CCC25378FAAC28075B3FFE5FF604D483"
+  },
+  {
+    "path": "src\\core\\ports.ts",
+    "hash": "C394DE0F691078E1D84E0B643C62BD0AF00EB379E7822DD7E75497909D5986FC"
+  },
+  {
+    "path": "src\\core\\reasons.ts",
+    "hash": "7BEBFEE6A78B92320E03E9296168127D9CCEC82FA5189AAB4F5BFE0F778E5880"
+  },
+  {
+    "path": "src\\core\\replies.ts",
+    "hash": "B060B4E619C1F1EBE1B835420F620C01B7E52E1DAE3C046A1A830585B60AEB07"
+  },
+  {
+    "path": "src\\core\\stage.ts",
+    "hash": "A3AABABD5C25F3B13532D0CD0F1FA56DF8E352B87161039A8C57613178922B79"
+  },
+  {
+    "path": "src\\core\\tickets.ts",
+    "hash": "F0DA3DE9038E23A711F535432A1E1863B702D4E6115B4CEDC665EC2055EE6D83"
+  },
+  {
+    "path": "src\\executor\\background.ts",
+    "hash": "1BF32C5E7C40468467DD6626F3D4049BABA3DFD25D337C9A4CFC64FDA470C5CD"
+  },
+  {
+    "path": "src\\executor\\dsh.ts",
+    "hash": "7D0C14CAEA73A2341E3CB7CD1EE8C5830ECAF942897B0DD7AB76CB246DE1EBB7"
+  },
+  {
+    "path": "src\\infra\\commands.ts",
+    "hash": "0F5578A7D5E5706B2740C29E7698DD8B80B16BA259D197CD6426FF3E567660A8"
+  },
+  {
+    "path": "src\\infra\\environment.ts",
+    "hash": "DD35D207611238DF460EB1144AF484C0BC9D8F679223ED64CFFF59C90D3D62E0"
+  },
+  {
+    "path": "src\\infra\\health.ts",
+    "hash": "E08C17E7485F721BA377D4EE0BD6D0ACF66943291ED9645132FE1BD61EE5A3CE"
+  },
+  {
+    "path": "src\\infra\\paths.ts",
+    "hash": "8BEE85F9123363766F1EC0671F13CDD9A285E0FA60D00CACBC3CB3EC87F5A08F"
+  },
+  {
+    "path": "src\\infra\\text.ts",
+    "hash": "F9A05C6B29AA96A34230FF0930EABF0FF02FEC243D34228FDA619F99633FBDAA"
+  },
+  {
+    "path": "src\\sources\\admission-context.ts",
+    "hash": "6E342CEAF4964A075C241FE4CB4EBF55C1FCD92281068268495423D105828E00"
+  },
+  {
+    "path": "src\\sources\\feishu-channel.ts",
+    "hash": "A7FACD683AAD2AB4130D5445B1913AF55586C2F7426EF421BD4BFDFD876E313B"
+  },
+  {
+    "path": "src\\sources\\feishu-image.ts",
+    "hash": "73FD0C987F0C081B5D4D953DA4FED728188A1EAE157DC94C9BDD8A5EEAA4AB2E"
+  },
+  {
+    "path": "src\\sources\\feishu-loops.ts",
+    "hash": "23CEA95AFFA7B6DB78FDC1E5B4D9CC3C9619E531FD3D312FADEACC83CAC0E234"
+  },
+  {
+    "path": "src\\sources\\feishu-read.ts",
+    "hash": "EB5C540AD6F9A4917965EB1E45AE71E3F545002588B655C17BFDA5195C2C7E03"
+  },
+  {
+    "path": "src\\sources\\feishu-trigger.ts",
+    "hash": "B09CD6ED8BD9300C2C4FC635F553B4279A3C9E690A6EFFDE396AAB79F7772899"
+  },
+  {
+    "path": "src\\sources\\feishu.ts",
+    "hash": "206DB0F027D834376957CCBE4CE8783BBC71714552347C330535C6B0EF784B30"
+  },
+  {
+    "path": "src\\sources\\github-channel.ts",
+    "hash": "647D5E22E66B4B026BF9B79EAF6FF27DECDFA1CEC8FDC6E81FA40FC7B9597958"
+  },
+  {
+    "path": "src\\sources\\github-pull.ts",
+    "hash": "5841877E203B26B71E424E7A64710EC841B0E8EE84B2749BA76817D0B87E5D96"
+  },
+  {
+    "path": "src\\sources\\github-read.ts",
+    "hash": "3F27673D7007D3D9CA68AFC119592E3764CE810F367C38CCD612D32E3CB2BC14"
+  },
+  {
+    "path": "src\\sources\\github-trigger.ts",
+    "hash": "2388E658B8F945C98270BA6928640AF5971265D9C549DEA6D193CEAE8A7B0A2E"
+  },
+  {
+    "path": "src\\sources\\github.ts",
+    "hash": "E2C25991288A93305FD14673ED93AA076C461BE19097E9033BC8CDBC3DDCB59D"
+  },
+  {
+    "path": "src\\sources\\host.ts",
+    "hash": "B14C9E7114136B8FAA510C5E67D242F35DC8743D145579286380D89F66CA9715"
+  },
+  {
+    "path": "src\\sources\\kind.ts",
+    "hash": "2CF736ECE4E9E84A5B0213A324A0FF73F5C1DF23ACDFDB8B87878E7966D6ED0C"
+  },
+  {
+    "path": "src\\sources\\poll.ts",
+    "hash": "704BA1EB3828E385C5D067A1CED646387DFC6F300858A14D82614E73440F9FC0"
+  },
+  {
+    "path": "src\\sources\\registry.ts",
+    "hash": "E63AD947A00FD30E41D6E9B93D804571A76B77E4CE4E9C7E80769ACD8CC4E86F"
+  },
+  {
+    "path": "tests\\admission-context.spec.ts",
+    "hash": "15C09D3E4447049296CE881465BB43C6D2AA3E99FED305063F938504DCFDFF5B"
+  },
+  {
+    "path": "tests\\assessment.spec.ts",
+    "hash": "04603E18B0F7EC0A7F5FB5BC4B3F31D91F4F75BC96B1DDAF90A82F5B269186D2"
+  },
+  {
+    "path": "tests\\background.spec.ts",
+    "hash": "6E507F6C464EB5CCF0AC3810847E2BA1732B8B0209EC66A68C0C7DB696210D43"
+  },
+  {
+    "path": "tests\\bundle-patch.spec.ts",
+    "hash": "814D8DF26556FA6DD09B27BAF3585045B258DB50B25489AA569FA1A98D53951C"
+  },
+  {
+    "path": "tests\\cache.spec.ts",
+    "hash": "CC3E590B7F3E82D96BD2FC8B592BA56B31F498A6D614989E59D8F66BA738E6CA"
+  },
+  {
+    "path": "tests\\cards.spec.ts",
+    "hash": "6ED15E8B939CC39F4D52679707552D7802414D0165BA5A5DE5F6FFB7ABB6475B"
+  },
+  {
+    "path": "tests\\class-docs.spec.ts",
+    "hash": "4DD1ABE69A7CA44E62319D844BB9AF3097D081F795DABD038B00554E28748AA4"
+  },
+  {
+    "path": "tests\\client.spec.tsx",
+    "hash": "6BC8ABECF4BFF76B1BDCD37955484998FFC699BF0B5DDF0957215842D659C6D4"
+  },
+  {
+    "path": "tests\\commands.spec.ts",
+    "hash": "B6B1C3E620A6ED519E81B964551D82751BEF4C2064B12A7EA7F34D574FDC3B7C"
+  },
+  {
+    "path": "tests\\controls.spec.tsx",
+    "hash": "08D29CB068E7729F4CFE75A0A2CEC705763BA51A6DA5541177B51312AF710C3B"
+  },
+  {
+    "path": "tests\\core-engine.spec.ts",
+    "hash": "CE448E59985BA19E8AF3EC8ED1ECA920355E1533EC978E37F2E5A385E50F1602"
+  },
+  {
+    "path": "tests\\delivery.spec.ts",
+    "hash": "349B5D30409BB4F9A7738A8454E39C36FC6E80A898B19EF420CB13F1F24DF27D"
+  },
+  {
+    "path": "tests\\deployment.spec.ts",
+    "hash": "5B2CCD2BE46E6C60E839975EA1226FFE79309065F41FE75DF247B8992084992C"
+  },
+  {
+    "path": "tests\\docs.spec.ts",
+    "hash": "CB49D5FD0A2131D2265F9C9809C0C4A54FBA39AFE6D82F99B69503030F3BD73C"
+  },
+  {
+    "path": "tests\\draft.spec.ts",
+    "hash": "68BD9D48A3EF9D16A8556F00E483E56E02DA7A9DBC3E79C66D498999F6B41DBD"
+  },
+  {
+    "path": "tests\\effects.spec.ts",
+    "hash": "3E8D09F3599D123B0AB51A1D9C2D2B969731F59C405AE0E67241ACB35FD2DCB2"
+  },
+  {
+    "path": "tests\\environment.spec.ts",
+    "hash": "B61AAEA43129D25221170DEFC117AA80F5555071C2DC107033BA73E193A19A0E"
+  },
+  {
+    "path": "tests\\feishu-image.spec.ts",
+    "hash": "563504B04C3962EAA2EA6A7A70432ECD8F465598DE5C3DCAF19DB32141C253FD"
+  },
+  {
+    "path": "tests\\feishu-read.spec.ts",
+    "hash": "8890C39B02B36760CFEAAD332A1E7A0FE57C36D2FE5B66B1ED79A71A0DAB1555"
+  },
+  {
+    "path": "tests\\followups.spec.ts",
+    "hash": "36E1D63A861DD9C5E3102C095CCB407C72F9B68DE5F62E098B029A4116569F73"
+  },
+  {
+    "path": "tests\\github-read.spec.ts",
+    "hash": "6167070A8D7CFFB6E96FF2C72AC6DB8231FD165E8E64699A1D1A1DE740FD5BE5"
+  },
+  {
+    "path": "tests\\health.spec.ts",
+    "hash": "D6E08EE8A47A9439F547169D0FB835D2520C07EE31978BA2DBC58DBB7BAFBE34"
+  },
+  {
+    "path": "tests\\http.spec.ts",
+    "hash": "ED8A71FAD1BAA187577CD1EB3E1BB1455E55CCE6198445DFA46CDF4EFCC0F31F"
+  },
+  {
+    "path": "tests\\index.spec.ts",
+    "hash": "4527AB7DA292A1CB1C672940971785A6E6AD8C5C9AD900C1734E25BF6EB41869"
+  },
+  {
+    "path": "tests\\locales.spec.ts",
+    "hash": "5A27429DB6767E6D8685FA5CCDB225D22E7160ABF4B4426643F1008C4A062A86"
+  },
+  {
+    "path": "tests\\markdown.spec.ts",
+    "hash": "D047DC6387C93227F4D536681B2A77FD4F21211F3C39A4FE95B036876AFDF602"
+  },
+  {
+    "path": "tests\\marks.spec.ts",
+    "hash": "AEA6B5D8A7B8BD2E58B38BCE9F2C6FDAB5A8F59E623EAFF1E4760A40CEA9D782"
+  },
+  {
+    "path": "tests\\migration.spec.ts",
+    "hash": "5FCE38716CBD2270BC25D29721F0EEB4103745A6CA91F82ECD80D2BB724A3432"
+  },
+  {
+    "path": "tests\\model-surface.spec.ts",
+    "hash": "9967B37D40B903D411DEB0E4A446DCB567335ACFAEF881B51349EE28F5C78505"
+  },
+  {
+    "path": "tests\\navigation.spec.ts",
+    "hash": "FBA89351058ED141CB10D51E4AEC475868F4F6ECC16BFE047782AB1D4C52D72D"
+  },
+  {
+    "path": "tests\\outbox.spec.ts",
+    "hash": "8EAB23F2C33D6E531928BC700A1D87D9D5DEAFBD9CDE96D407E2941792903BAB"
+  },
+  {
+    "path": "tests\\panel-deployment.spec.tsx",
+    "hash": "B906B71A2618FC95D2401F5B10C7D806ACDA50E31C752F569E0700F9D5D7A661"
+  },
+  {
+    "path": "tests\\panel-eval.spec.tsx",
+    "hash": "A8113C1999F6DAC47A8FDC28A58F65149A8E19E16857C807ECB4F079D3B8A3C1"
+  },
+  {
+    "path": "tests\\panel-execution.spec.tsx",
+    "hash": "7FE8D12C586334E5234282FB562FAD42019C343ADBA865237D43743EA5FA7C6C"
+  },
+  {
+    "path": "tests\\panel-overview.spec.tsx",
+    "hash": "1F9551051CAA8D334BC04F9DFBAC8708B02A2A93542EA4F25C57710CBFEFF84E"
+  },
+  {
+    "path": "tests\\panel-panel.spec.tsx",
+    "hash": "B16D534526C26D2EDEB075D2DB59397D5B3C373EFA12361CBCA032A7C7ED609A"
+  },
+  {
+    "path": "tests\\panel-prompts.spec.tsx",
+    "hash": "F100C9DBEA40DAD5F48F75C7FE762282E53CC3B2C20523526D3BF788202B2375"
+  },
+  {
+    "path": "tests\\panel-settings.spec.tsx",
+    "hash": "AC86A745C8ACB322880597E0E5A9620E3AAF2C7853381B243F5CCAE8567F2995"
+  },
+  {
+    "path": "tests\\panel-source.spec.tsx",
+    "hash": "3EAE2A5BCA641E58E2CA4EFF34E417A40984A72D9094EE4C62214561C67CFB86"
+  },
+  {
+    "path": "tests\\panel-trigger.spec.tsx",
+    "hash": "B89AB472A8F43B86BAA9A27E74E77266B05A7238F08F732869685CE17436A965"
+  },
+  {
+    "path": "tests\\passes.spec.ts",
+    "hash": "DB44531E9506DCA00F302ACFD32529665B173695BF6460028342DEB6990D0920"
+  },
+  {
+    "path": "tests\\policy.spec.ts",
+    "hash": "608320E30E0057E931DEA067C9E8E7E936706597582A7453962F9A480589074B"
+  },
+  {
+    "path": "tests\\prompt-config.spec.ts",
+    "hash": "E99C4117E33B45FDB4BABD611DFD3C65264C76BDB8C73C0BB0EC535C56BE92F9"
+  },
+  {
+    "path": "tests\\prompts.spec.ts",
+    "hash": "F7A6C19F13898AE8113D1397BFA2130BD24E9DDCD6EDF6735E3B95BAD8DB5D44"
+  },
+  {
+    "path": "tests\\queue.spec.ts",
+    "hash": "BA6CA2090921AAA4DF1AE9C4BA3020EFEE9DCB2FE6FAC635A2DC945C39672317"
+  },
+  {
+    "path": "tests\\registry.spec.ts",
+    "hash": "7EC569649BBB28A9F5E5AB2D2711FE7372BEE4E2998719E195BAC6263BC2B17F"
+  },
+  {
+    "path": "tests\\retry-health.spec.ts",
+    "hash": "6B160EFBCFE5F724873AECA3E64EE2738B4AF22E8FB113DC18389CA06BD31D61"
+  },
+  {
+    "path": "tests\\role-models.spec.ts",
+    "hash": "EC9C5F54EBE8256853FF64215D437F1C7A36C7A17FDF6BBFE6F189ECA0B7B359"
+  },
+  {
+    "path": "tests\\runtime-concurrency.spec.ts",
+    "hash": "F79AF37E9AA8281F2D77C4F957ED51F7700F8D4A3197D670F6F79C1323005333"
+  },
+  {
+    "path": "tests\\runtime.spec.ts",
+    "hash": "D0B7E3957D12484F6C8E9AD23968D72826875289D94600FBAD585BFB1AF7626B"
+  },
+  {
+    "path": "tests\\service-script.spec.ts",
+    "hash": "F663DA8D8DF7AC362F2788C08AD5E728D47067A03F85BE2923C16779ABE80A91"
+  },
+  {
+    "path": "tests\\settings.spec.ts",
+    "hash": "7256D77B40F8ADC77885AD030322B927469214398E3089A259A51312B9F24765"
+  },
+  {
+    "path": "tests\\sources.spec.ts",
+    "hash": "1447B0680F5E7254E2B079AE6B1191740F5D9438300513C78A19DF038C03B7F6"
+  },
+  {
+    "path": "tests\\stage.spec.ts",
+    "hash": "31E067D908390191B1C9C7A085F310D83650B8410E76096BFBDFAF8B1A8CCFFC"
+  },
+  {
+    "path": "tests\\store.spec.ts",
+    "hash": "56572177A63467811E335DF62C98FED31406440048509EF422DA9CF1F6A22C58"
+  },
+  {
+    "path": "tests\\styles.spec.ts",
+    "hash": "D9DE635FACEB367D7F679E0371851E15AD3A2706AC17F74CF63BFC84B613FA1B"
+  },
+  {
+    "path": "tests\\timeline.spec.ts",
+    "hash": "1F588D4A80EF75867703C8C522ABC15F587133B25A41D277354A0ABE8687BD18"
+  },
+  {
+    "path": "tests\\tools.spec.ts",
+    "hash": "85747C0374EC22DDF5A0F15BC640D2AA1D42DEA063D298DC59C825AF53C870F0"
+  },
+  {
+    "path": "tests\\views.spec.ts",
+    "hash": "5F018DF4409F459251AC9E57CEA42ED9D89DF780F1736BF417EF3C41F025CEC7"
+  },
+  {
+    "path": "tests\\fixtures\\async.ts",
+    "hash": "A90157F05ACFDE4B5C0C3DB7B2918EF1BF615F410F0EA2A370DC8E828907034F"
+  },
+  {
+    "path": "tests\\fixtures\\deployment.ts",
+    "hash": "F9E85B111B88C837FF43D55F9BAE3BAEC89E800FFB9948064D7D0CF07F009F39"
+  },
+  {
+    "path": "tests\\fixtures\\git.ts",
+    "hash": "76C50EA626F7C3BC21BCC24592FB209C6F28B9040BFCED7B23B9BDD9A33B6A42"
+  },
+  {
+    "path": "tests\\fixtures\\host.ts",
+    "hash": "AFE48071B5A759C12C861E2FE9829213C26C618B5BC1AD5B6CD96CDE14E8F298"
+  },
+  {
+    "path": "tests\\fixtures\\panel-server.ts",
+    "hash": "FB50BEE6421EE1D6B60720DD6F3C6709366C5873342A2E7F269519F60D8A455A"
+  },
+  {
+    "path": "tests\\fixtures\\panel.tsx",
+    "hash": "AA10B62E6F2D2604E3B628D5A298C395A45C54AF80C3A6879E3D7F0FA1F2FB3B"
+  }
+]

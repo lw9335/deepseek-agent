@@ -1,0 +1,302 @@
+[
+  {
+    "width": 1440,
+    "scheme": "light",
+    "errors": [],
+    "requests": [],
+    "state": {
+      "width": 1440,
+      "scroll": 1440,
+      "sections": [
+        {
+          "id": "intro",
+          "chars": 1928
+        },
+        {
+          "id": "ch1",
+          "chars": 1089
+        },
+        {
+          "id": "ch2",
+          "chars": 872
+        },
+        {
+          "id": "ch3",
+          "chars": 5686
+        },
+        {
+          "id": "ch4",
+          "chars": 1054
+        },
+        {
+          "id": "ch5",
+          "chars": 3313
+        },
+        {
+          "id": "ch6",
+          "chars": 25674
+        },
+        {
+          "id": "ch7",
+          "chars": 4215
+        },
+        {
+          "id": "ch8",
+          "chars": 1794
+        },
+        {
+          "id": "ch9",
+          "chars": 2867
+        },
+        {
+          "id": "ch10",
+          "chars": 1845
+        },
+        {
+          "id": "appendix",
+          "chars": 2107
+        }
+      ],
+      "svg": 8,
+      "background": "rgb(246, 245, 241)",
+      "refs": 352,
+      "details": 23
+    },
+    "dialog": {
+      "open": true,
+      "target": true
+    },
+    "themeSwitch": true,
+    "expanded": {
+      "scroll": 1440,
+      "overflow": []
+    },
+    "active": "#ch8",
+    "invalid": []
+  },
+  {
+    "width": 1440,
+    "scheme": "dark",
+    "errors": [],
+    "requests": [],
+    "state": {
+      "width": 1440,
+      "scroll": 1440,
+      "sections": [
+        {
+          "id": "intro",
+          "chars": 1928
+        },
+        {
+          "id": "ch1",
+          "chars": 1089
+        },
+        {
+          "id": "ch2",
+          "chars": 872
+        },
+        {
+          "id": "ch3",
+          "chars": 5686
+        },
+        {
+          "id": "ch4",
+          "chars": 1054
+        },
+        {
+          "id": "ch5",
+          "chars": 3313
+        },
+        {
+          "id": "ch6",
+          "chars": 25674
+        },
+        {
+          "id": "ch7",
+          "chars": 4215
+        },
+        {
+          "id": "ch8",
+          "chars": 1794
+        },
+        {
+          "id": "ch9",
+          "chars": 2867
+        },
+        {
+          "id": "ch10",
+          "chars": 1845
+        },
+        {
+          "id": "appendix",
+          "chars": 2107
+        }
+      ],
+      "svg": 8,
+      "background": "rgb(20, 29, 34)",
+      "refs": 352,
+      "details": 23
+    },
+    "dialog": {
+      "open": true,
+      "target": true
+    },
+    "themeSwitch": true,
+    "expanded": {
+      "scroll": 1440,
+      "overflow": []
+    },
+    "active": "#ch8",
+    "invalid": []
+  },
+  {
+    "width": 375,
+    "scheme": "light",
+    "errors": [],
+    "requests": [],
+    "state": {
+      "width": 375,
+      "scroll": 375,
+      "sections": [
+        {
+          "id": "intro",
+          "chars": 1928
+        },
+        {
+          "id": "ch1",
+          "chars": 1089
+        },
+        {
+          "id": "ch2",
+          "chars": 872
+        },
+        {
+          "id": "ch3",
+          "chars": 5686
+        },
+        {
+          "id": "ch4",
+          "chars": 1054
+        },
+        {
+          "id": "ch5",
+          "chars": 3313
+        },
+        {
+          "id": "ch6",
+          "chars": 25674
+        },
+        {
+          "id": "ch7",
+          "chars": 4215
+        },
+        {
+          "id": "ch8",
+          "chars": 1794
+        },
+        {
+          "id": "ch9",
+          "chars": 2867
+        },
+        {
+          "id": "ch10",
+          "chars": 1845
+        },
+        {
+          "id": "appendix",
+          "chars": 2107
+        }
+      ],
+      "svg": 8,
+      "background": "rgb(246, 245, 241)",
+      "refs": 352,
+      "details": 23
+    },
+    "dialog": {
+      "open": true,
+      "target": true
+    },
+    "themeSwitch": true,
+    "expanded": {
+      "scroll": 375,
+      "overflow": []
+    },
+    "active": "#ch8",
+    "invalid": []
+  },
+  {
+    "width": 375,
+    "scheme": "dark",
+    "errors": [],
+    "requests": [],
+    "state": {
+      "width": 375,
+      "scroll": 375,
+      "sections": [
+        {
+          "id": "intro",
+          "chars": 1928
+        },
+        {
+          "id": "ch1",
+          "chars": 1089
+        },
+        {
+          "id": "ch2",
+          "chars": 872
+        },
+        {
+          "id": "ch3",
+          "chars": 5686
+        },
+        {
+          "id": "ch4",
+          "chars": 1054
+        },
+        {
+          "id": "ch5",
+          "chars": 3313
+        },
+        {
+          "id": "ch6",
+          "chars": 25674
+        },
+        {
+          "id": "ch7",
+          "chars": 4215
+        },
+        {
+          "id": "ch8",
+          "chars": 1794
+        },
+        {
+          "id": "ch9",
+          "chars": 2867
+        },
+        {
+          "id": "ch10",
+          "chars": 1845
+        },
+        {
+          "id": "appendix",
+          "chars": 2107
+        }
+      ],
+      "svg": 8,
+      "background": "rgb(20, 29, 34)",
+      "refs": 352,
+      "details": 23
+    },
+    "dialog": {
+      "open": true,
+      "target": true
+    },
+    "themeSwitch": true,
+    "expanded": {
+      "scroll": 375,
+      "overflow": []
+    },
+    "active": "#ch8",
+    "invalid": []
+  }
+]
